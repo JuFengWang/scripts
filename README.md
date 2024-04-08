@@ -1,2 +1,2 @@
 # scripts
-Genome assembly
+Genome assembly and analysis
